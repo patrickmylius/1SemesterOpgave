@@ -1,0 +1,5 @@
+SELECT Spoergsmaal, Points FROM quizspoergsmaal;
+SELECT id, Points, COUNT(4) FROM quizspoergsmaal GROUP BY id;
+SELECT Spoergsmaal FROM quizspoergsmaal LIMIT 2;
+SELECT Spoergsmaal, Svar FROM quizspoergsmaal WHERE Spoergsmaal LIKE '%jul%'
+SELECT * FROM quizspoergsmaal WHERE Points BETWEEN 5 and 10;
