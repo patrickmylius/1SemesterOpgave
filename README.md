@@ -103,10 +103,13 @@ Lav en database og en tabel i MySQL, som kan indeholde quiz-spørgsmål og svar.
 
 Skriv minimum 5 eksempler på forskellige SQL queries, som du har lært. Disse queries skal virke sammen med din database. (F.eks. SELECT .. WHERE .. LIMIT, CREATE TABLE, CREATE DATABASE, INSERT INTO, DELETE, UPDATE, JOIN) Gem dem i en textfil med navnet queries.sql i database mappen i dit projekt.  
 Commit ændringerne.
-Opgave 9 - GUI
+
+**Opgave 9 - GUI**
 Design et GUI vha. Gluon SceneBuilder, som kan vise et spørgsmål og nogle svarmuligheder ad gangen. Det behøver ikke at ligne billedet her, det er blot til inspiration.
 Commit ændringerne.
-Opgave 10 - Dokumentation
+
+
+**Opgave 10 - Dokumentation**
 Afslutningsvist skal du dokumentere dit projekt på følgende 3 måder: 
 kommentarer i din kode
 Readme.md
